@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "221938176182",
-    "project_id": "newchatapp-38edc",
-    "storage_bucket": "newchatapp-38edc.firebasestorage.app"
+    "project_number": "1096118170365",
+    "project_id": "chatconnect-8f15c",
+    "storage_bucket": "chatconnect-8f15c.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:221938176182:android:5e6f1272e14d847b711617",
+        "mobilesdk_app_id": "1:1096118170365:android:065e25b93a09fddf650494",
         "android_client_info": {
           "package_name": "com.example.myapplication"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyBXywcs1ZvYOvISrztKFSeJEUhJOKvQY2E"
+          "current_key": "AIzaSyCL-INZ0cCdPkhpv8XGUs0hzbdoW2SBZ6Q"
         }
       ],
       "services": {

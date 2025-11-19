@@ -59,7 +59,7 @@ ChatConnect/
 
 ## Author
 
-**Prajakta Arun Patil**
+**Neha Ranjit Nalage**
 Student, **D Y Patil Agriculture and Technical University, Talsande**  
 Project developed under **Smart-Internz – Android Development with Kotlin (Externship Program)**
 
