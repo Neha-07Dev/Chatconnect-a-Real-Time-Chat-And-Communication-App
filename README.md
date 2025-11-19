@@ -8,7 +8,7 @@ ChatConnect is a modern real-time chat application developed using **Kotlin**, *
 
 
 
-**[https://github.com/PrajaktaPatil3112/Chatconnect-a-Real-Time-Chat-And-Communication-App.git](#)**
+**[https://github.com/Neha-07Dev/Chatconnect-a-Real-Time-Chat-And-Communication-App.git](#)**
 
 ---
 
